@@ -1,0 +1,8 @@
+cloud-cost-calculator
+
+frontend/
+backend/
+terraform/
+pricing-data/
+docs/
+README.md
