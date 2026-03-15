@@ -11,3 +11,26 @@ Simple and responsive web interface
 Backend API for cost calculations
 Containerized application for easy deployment
 Infrastructure deployment using Infrastructure-as-Code
+Supported Cloud Services
+The current version estimates costs for the following services:
+Amazon EC2 — virtual compute instances
+Amazon S3 — object storage
+Amazon RDS — managed relational databases
+AWS Lambda — serverless compute
+Amazon CloudFront — content delivery network
+Tech Stack
+Frontend
+React
+Tailwind CSS
+Backend
+FastAPI
+Python
+Infrastructure & DevOps
+Docker for containerization
+Terraform for infrastructure as code
+Cloud Platform
+Amazon EC2 for backend hosting
+Amazon S3 for static site hosting
+Architecture
+High-level system architecture:
+'
